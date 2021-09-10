@@ -15,3 +15,7 @@ A much better new-and-improved version of my Rock-Paper-Scissors software, now w
 ### Notes:
 
 I now do not ever plan Windows support for any of my programs, so don't ask for it. You can use Cygwin, MSYS2, or something of the like to run the Linux version. :)
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+    RPS-C, A simple Rock-Paper-Scissors game written in the C language.
+    Copyright (C) 2021 Jarmander333
