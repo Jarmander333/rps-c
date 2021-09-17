@@ -18,4 +18,3 @@ I now do not ever plan Windows support for any of my programs, so don't ask for 
 
 -----------------------------------------------------------------------------------------------------------------------------------------
     RPS-C, A simple Rock-Paper-Scissors game written in the C language.
-    Copyright (C) 2021 Jarmander333
